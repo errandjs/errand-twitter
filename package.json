@@ -1,0 +1,29 @@
+{
+  "name": "errand-twitter",
+  "version": "0.1.1",
+  "description": "errand component for working with twitter",
+  "main": "lib/errand_twitter.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "big-number": "^0.4.0",
+    "kue": "^0.11.6",
+    "moment": "^2.18.1",
+    "mongodb": "^2.2.30",
+    "twit": "^2.2.9",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/errandjs/errand-twitter.git"
+  },
+  "author": "mattcam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/errandjs/errand-twitter/issues"
+  },
+  "homepage": "https://github.com/errandjs/errand-twitter#readme"
+}
