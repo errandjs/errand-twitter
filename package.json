@@ -1,6 +1,6 @@
 {
   "name": "errand-twitter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "errand component for working with twitter",
   "main": "lib/errand_twitter.js",
   "dependencies": {
